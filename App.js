@@ -14,7 +14,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: "Components" ,
     defaultNavigationOptions: {
-      title: "App"
+      title: "PFE Application",
     }
   }
 );
